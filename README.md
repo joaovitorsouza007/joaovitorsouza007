@@ -54,14 +54,6 @@ prompt (vibe coding) como ferramenta de aceleração de desenvolvimento
 />
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mysql/default.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
