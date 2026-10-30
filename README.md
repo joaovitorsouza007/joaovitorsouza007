@@ -1,4 +1,4 @@
-# 👩🏻 João Vitor Souza
+# João Vitor Souza
 
 **`Desenvolvedor FullStack`**
 
